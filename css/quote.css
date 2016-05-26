@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+* {
+  font-family: 'Roboto', sans-serif;
+}
+body {
+  background-color: #d27e23;
+}
+.center {
+  margin-right: 34%;
+  margin-left: 34%;
+  margin-top: 15%;
+}
+.btn {
+  background-color: #1D1C1C;
+  border: 1px solid #1D1C1C;
+}
+.btn:hover {
+  background-color: #d27e23;
+  border: 1px solid #d27e23;
+}
+.quote {
+  font-style: italic;
+}
+.community {
+  margin-right: 75%;
+}
+.community a {
+  text-decoration: none;
+  color: #404040;
+}
+.community a:hover {
+  font-size: 108%;
+  color: #A5A5A5;
+}
+.row {
+  min-width: 300px;
+}
